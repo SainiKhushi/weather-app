@@ -1,2 +1,2 @@
-# weather-app
-Part of FreeCodeCamp Project
+# Weather-App
+Freecodecamp Build a Weather App Project
